@@ -36,11 +36,11 @@ $(function () {
     }
 })
 
-title='鑫声第十五期'; // 分享标题
-desc='新中国70年华诞，在这金秋十月，在新中国70年华诞，一个声音在融鑫人内心深处唤起：“我爱你，中国！”'; // 分享描述
-link = 'http://weixin.chinaresoft.com/resoftwechat/pages/nationalDay/jump.html';
-imgUrl='http://weixin.chinaresoft.com/resoftwechat/pages/nationalDay/imgs/share2.png'; // // 分享图标
+title='鑫声第十六期'; // 分享标题
+desc=''; // 分享描述
+link = 'http://weixin.chinaresoft.com/resoftwechat/pages/ResoftMGZ20191231001/pages/page1.html';
+imgUrl='http://weixin.chinaresoft.com/resoftwechat/pages/ResoftMGZ20191231001/imgs/share.png'; // // 分享图标
 
 $(function () {
-    $.post("http://weixin.chinaresoft.com/resoftwechat/wc/magazine/RWA_updateUIMagazineViewLog?uimgzSN=2019Y(09-10)M01I",null,function (result) {});
+    $.post("http://weixin.chinaresoft.com/resoftwechat/wc/magazine/RWA_updateUIMagazineViewLog?uimgzSN=2020Y(01-03)M01I",null,function (result) {});
 });
