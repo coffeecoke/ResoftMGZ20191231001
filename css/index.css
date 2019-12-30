@@ -4,6 +4,12 @@
 .orange-box {
   background-color:#f3b043;
 }
+.fm {
+  width:100%;
+  height:100%;
+  background:#fcbc4b url(../imgs/fm/fm-bg.png) no-repeat;
+  background-size:100% auto;
+}
 .banner {
   position: relative;
   min-height:800px;
@@ -57,7 +63,7 @@ p {
   position: relative;
 }
 .footer .end {
-  min-height:330px;
+  min-height:350px;
   padding:24px 24px 230px;
   background-color:#fdd68f;
 }
