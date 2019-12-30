@@ -6,6 +6,8 @@
 }
 .banner {
   position: relative;
+  min-height:800px;
+  background-color:#fcbc4b;
 }
 .text-container {
   position: absolute;
@@ -26,6 +28,7 @@
 p {
   line-height:24px;
   font-size:14px;
+  text-indent: 24px;
 }
 .box {
   padding:30px 20px 60px 20px;
@@ -54,8 +57,13 @@ p {
   position: relative;
 }
 .footer .end {
-  padding:24px 24px 200px;
+  min-height:330px;
+  padding:24px 24px 230px;
   background-color:#fdd68f;
+}
+.footer .end p {
+  position: relative;
+  z-index:10;
 }
 .footer .end img {
   left:50%;

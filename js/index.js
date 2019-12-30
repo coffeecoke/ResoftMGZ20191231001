@@ -37,7 +37,7 @@ $(function () {
 })
 
 title='鑫声第十六期'; // 分享标题
-desc=''; // 分享描述
+desc='在每个人的记忆深处，都有着对自己来说最难忘的一个瞬间，无论这些瞬间是“喜”是“悲”，它带给我们的都是刻骨铭心、都是无法忘怀……'; // 分享描述
 link = 'http://weixin.chinaresoft.com/resoftwechat/pages/ResoftMGZ20191231001/pages/page1.html';
 imgUrl='http://weixin.chinaresoft.com/resoftwechat/pages/ResoftMGZ20191231001/imgs/share.png'; // // 分享图标
 
